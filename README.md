@@ -1,0 +1,2 @@
+# 3244fc81-53a0-440a-af22-6740f5521e24-16953c01-a48f-4492-a7a1-2712f31df3d0-1
+https://sonarcloud.io/summary/overall?id=examly-test_3244fc81-53a0-440a-af22-6740f5521e24-16953c01-a48f-4492-a7a1-2712f31df3d0-1
